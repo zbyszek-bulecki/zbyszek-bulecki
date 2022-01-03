@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Java and backend.
 - 🌱 I’m currently learning Java, Git and Java OOP.
 - 💞️ I’m looking to collaborate on simple Java projects.
-- 📫 You can reach me via e-mail zbyszek.bulecki@gmail.com
+- 📫 You can reach me via e-mail zbyszek.bulecki@gmail.com or visit my LinkedIn profile ;-) https://www.linkedin.com/in/zbigniew-bułecki-58b68a67/
 
 <!---
 zbyszek-bulecki/zbyszek-bulecki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
