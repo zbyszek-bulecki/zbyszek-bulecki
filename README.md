@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zbyszek-bulecki
-- 👀 I’m interested in learning Java and backend.
-- 🌱 I’m currently learning Java, Git and Java OOP & SQL.
-- 💞️ I’m looking for opportunities to collaborate on simple Java projects.
+- 👀 I’m interested in learning Java and backend, crypto and finance.
+- 🌱 I’m currently learning Java, Spring, and working with databases.
+- 💞️ I’m looking for opportunities to collaborate on projects.
 - 📫 You can reach me via e-mail zbyszek.bulecki@gmail.com
 - or visit my [LinkedIn profile](https://www.linkedin.com/in/zbigniew-bułecki-58b68a67/) 👨🏻‍💻
 
